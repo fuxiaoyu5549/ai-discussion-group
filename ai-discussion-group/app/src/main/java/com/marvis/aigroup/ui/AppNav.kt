@@ -11,6 +11,7 @@ import androidx.navigation.navArgument
 import com.marvis.aigroup.ui.screen.AlertScreen
 import com.marvis.aigroup.ui.screen.ConversationListScreen
 import com.marvis.aigroup.ui.screen.GroupChatScreen
+import com.marvis.aigroup.ui.screen.NewDiscussionScreen
 import com.marvis.aigroup.ui.screen.RoleEditScreen
 import com.marvis.aigroup.ui.screen.RolesScreen
 import com.marvis.aigroup.ui.screen.SettingsScreen

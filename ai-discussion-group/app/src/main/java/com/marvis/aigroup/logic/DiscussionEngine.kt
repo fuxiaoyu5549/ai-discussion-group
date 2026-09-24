@@ -5,6 +5,7 @@ import com.marvis.aigroup.model.Conversation
 import com.marvis.aigroup.model.Message
 import com.marvis.aigroup.model.Role
 import com.marvis.aigroup.network.LlmClient
+import com.marvis.aigroup.network.LlmResult
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

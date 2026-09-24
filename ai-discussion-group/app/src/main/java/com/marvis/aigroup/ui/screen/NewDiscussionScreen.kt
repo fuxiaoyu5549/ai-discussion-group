@@ -33,7 +33,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.marvis.aigroup.LocalAppState
-import com.marvis.aigroup.Routes
+import com.marvis.aigroup.ui.Routes
 import com.marvis.aigroup.model.Conversation
 import com.marvis.aigroup.ui.common.RoleAvatar
 

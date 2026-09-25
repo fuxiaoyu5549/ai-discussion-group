@@ -78,7 +78,7 @@ fun AppNav() {
             RoleEditScreen(roleId = roleId, onBack = { nav.popBackStack() })
         }
         composable(Routes.SETTINGS) {
-            SettingsScreen(onBack = { nav.popBackStack() })
+            SettingsScreen(onBack = { nav.popBackStack() }, onRoles = { nav.navigate(Routes.ROLES) })
         }
         composable(Routes.ALERTS) {
             AlertScreen(onBack = { nav.popBackStack() })
